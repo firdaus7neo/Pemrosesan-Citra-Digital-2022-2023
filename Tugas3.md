@@ -1,7 +1,3 @@
-## Khairul Fuad
-
-## 2110131310002
-
 ## **GreyScale**
 
  Grayscale adalah berbagai nuansa warna monokromatik dari hitam menjadi putih. Oleh karena itu, gambar grayscale hanya memiliki warna abu-abu dan tidak berwarna.
