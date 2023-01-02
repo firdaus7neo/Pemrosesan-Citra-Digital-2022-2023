@@ -1,12 +1,4 @@
-## Nama : Khairul Fuad
-## Nim : 2110131310002
-## Matkul : Pemrosesan Citra Digital
-## Dosen Pengampu : Dr. Harja Santana Purba, M.Kom, dan Novan Alkaf B. S. S. Kom., M.T
-
-
 ### Tugas membuat Pseudo Code Patterning, Ditthering, Bit Plane Slacing, dan Histogram equalization
-
-
 
 #### **Pseudo Code Patterning**
 
